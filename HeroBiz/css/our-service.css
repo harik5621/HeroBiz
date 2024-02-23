@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    top: 0;
+}
+#our-service{
+    text-align: center;
+    margin-top: 33px;
+    font-size: 19px;
+}
+#our-service-header{
+
+}
+.our-service-header-h1{
+
+}
+.profile-img-1{
+    height: 400px;
+    width: 400px;
+    margin-left: 81px;
+    margin-top: 35px;
+    border-radius: 16px;
+
+}
+.service-profile-content{
+    background: white;
+    width: 315px;
+    height: 200px;
+    text-align: center;
+    position: relative;
+    left: 125px;
+    margin-top: -136px;
+    border-radius: 17px;
+    box-shadow: 2px 2px 8px black;
+}
+.service-profile-content-h2{
+    position: relative;
+    top: 26px;
+}
+#profile-1-logo{
+    font-size: 65px;
+    position: relative;
+    top: -31px;
+    color: blueviolet;
+}
+#service-porfile{
+    
+}
+.profile{
+    
+}
+.profile:hover{
+    color: darkblue;
+
+}
+#profile-boxes{
+    display: flex;
+}

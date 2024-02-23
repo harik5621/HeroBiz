@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    top: 0;
+}
+#testmonial{
+    background: url(../Images/testimonials-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 333px;
+    padding: 70px;
+    margin-top: 50px;
+}
+#testmonial-container{
+    /* background: wheat; */
+    height: 362px;
+}
+.testmonial-profile-1{
+    text-align: center;
+    position: relative;
+    top: 36px;
+    line-height: 33px;
+    color: white;
+}
+.testmonial-profile-1-img{
+    border-radius: 50%;
+    border: 5px solid grey;
+    width: 101px;
+}
+#star{
+    color: gold;
+}
+.swiper-bullet{
+    color: white;
+    background: yellow;
+    height: 33px;
+    font-size: 18px;
+    text-align: center;
+}

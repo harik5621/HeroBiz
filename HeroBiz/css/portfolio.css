@@ -1,0 +1,54 @@
+#portfolio{
+
+}
+#portfolio-header{
+    text-align: center;
+}
+#portfolio-service{
+    text-decoration: none;
+    line-height: 32px;
+    font-weight: bold;
+}
+#portfolio-service:hover{
+    color: blue;
+}
+.portfolio-service{
+    display: inline;
+    margin: 19px;
+}
+#portfolio-imgs{
+    display: flex;
+}
+
+.portfolio-img-1{
+
+}
+.portfolio-img-show{
+    height: 300px;
+    width: 99%;
+    margin: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#our-team{
+
+}
+#our-team-head{
+    text-align: center;
+    
+}
+#our-team-boxs{
+    display: flex;
+    height: 560px;
+}

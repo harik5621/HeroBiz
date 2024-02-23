@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    top: 0;
+}
+#ask-question{
+    /* background: lightgreen; */
+    height: 539px;
+}
+#ask-question-container{
+    background: white;
+    height: 468px;
+    position: relative;
+    top: 23px;
+    width: 90%;
+    left: 5%;
+    display: flex;
+}
+.ask-question-question{
+    background: white;
+    height: 468px;
+    width: 50%;
+    line-height: 40px;
+
+}
+.ask-question-img{
+    background: url(../Images/ask-qstn.jpg);
+    height: 468px;
+    width: 50%;
+
+}
+.ask-qstn-head{
+
+}
+.ask-qstn-qstn{
+
+}

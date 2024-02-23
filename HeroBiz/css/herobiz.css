@@ -1,0 +1,105 @@
+#HeroBiz{
+
+}
+#footer-content{
+    background: #485664;
+    height: 347px;
+}
+#footer-container{
+    height: 300px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#footer-rows{
+    display: flex;
+    padding-top: 40px;
+}
+#herobiz-contact-info{
+    position: relative;
+    top: 8px;
+    height: 300px;
+    width: 25%;
+    line-height: 31px;
+    color: white;
+}
+#useful-links{
+    height: 300px;
+    width: 20%;
+    line-height: 44px;
+    color: white;
+}
+#footer-our-service{
+    height: 300px;
+    width: 20%;
+    line-height: 44px;
+    color: white;
+}
+#our-newsletter{
+    
+    height: 300px;
+    width: 35%;
+    line-height: 44px;
+    color: white;
+}
+.useful-links-li{
+    display: flex;
+    position: relative;
+    left: -37px;
+}
+.useful-links-li-btn{
+    text-decoration: none;
+    color: white;
+}
+#useful-links-li-icon{
+    padding-top: 14px;
+    padding-right: 5px;
+}
+#our-newsletter-email{
+    height: 39px;
+    width: 316px;
+}
+#our-newsletter-submit{
+    height: 45px;
+    width: 146px;
+    font-size: 16px;
+    background: #3b3bed;
+    color: white;
+    font-weight: bold;
+}
+#our-newsletter-post{
+    position: relative;
+    top: 50px;
+}
+#media{
+    background: #2a2d31;
+    height: 84px;
+}
+.media-container{
+    display: flex;
+}
+.media-content{
+    position: relative;
+    top: 21px;
+    left: 66px;
+    color: white;
+    height: 45px;
+    width: 381px;
+}
+.hero-media{
+    display: flex;
+    position: relative;
+    top: 24px;
+    left: 700px;
+    color: white;
+}
+.media-icon{
+
+}
+#media-icon{
+    font-size: 32px;
+    padding-left: 15px;
+    color: white;
+}
+.media-icon-a{
+    color: white;
+}

@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    top: 0;
+}
+#about{
+    /* background: green; */
+    height: 740px;
+    display: flex;
+}
+#abt-img2{
+    /* background: orange; */
+    width: 650px;
+    flex: 1;
+    height: 607px;
+    margin: 50px;
+}
+.abt-img2{
+    height: 607px;
+    width: 660px;
+    padding-left: 49px;
+
+}
+#abt-info{
+    /* background: orange; */
+    width: 700px;
+    flex: 1;
+    height: 607px;
+    margin: 50px;
+    line-height: 26px;
+}
+.abt-info-head{
+    margin: 23px;
+    text-align: left;
+    font-size: 21px;
+}
+.abt-info-head-li{
+    display: inline;
+    margin: 4px;
+}
+.abt-info-head-li-btn{
+    text-decoration: none;
+}
+#hr1{
+    width: 100%;
+    color: #5e5a5a;
+    position: relative;
+    top: 15px;
+    right: 23px;
+}
+.abt-info-para{
+    position: relative;
+    margin: 20px;
+    text-align: justify;
+
+}

@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    top: 0;
+}
+#clients{
+    /* background: gray; */
+    height: 125px;
+    /* background: yellowgreen; */
+}
+.container{
+    /* background: lightblue; */
+    height: 90px;
+    width: 94%;
+    position: relative;
+    left: 42px;
+}
+.clients-slider{
+
+}
+.client-1{
+    display: inline;
+}
+.client-img{
+    height: 56px;
+    margin: 14px;
+}

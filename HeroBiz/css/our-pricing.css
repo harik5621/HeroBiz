@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    top: 0;
+}
+#our-pricing{
+    height: 600px;
+    background: lightblue;
+    padding: 81px;
+}
+#our-pricing-head{
+    text-align: center;
+    line-height: 36px;
+
+}
+#our-pricing-box{
+    display: flex;
+}
+.our-pricing-box-1{
+    background: white;
+    height: 500px;
+    width: 415px;
+    position: relative;
+    top: 35px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px black;
+    margin-left: 25px;
+}
+.our-pricing-box-box{
+    background: rgb(25, 25, 25);
+    height: 150px;
+    width: 95%;
+    position: relative;
+    left: 2.5%;
+    top: 8px;
+    border-radius: 5px;
+}
+.our-pricing-box-box-head{
+    color: white;
+    position: relative;
+    top: 23px;
+    text-align: center;
+    line-height: 43px;
+}
+.our-pricing-buy-btn{
+    text-decoration: none;
+    background: darkviolet;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-top: 10px;
+    font-size: 24px;
+    border-radius: 10px;
+    position: relative;
+    top: 38px;
+    left: 130px;
+}
+.our-pricing-ul{
+    padding-top: 35px;
+    padding-left: 70px;
+    line-height: 37px;
+}

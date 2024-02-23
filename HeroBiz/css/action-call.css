@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    top: 0;
+}
+#action-call{
+    /* background: yellow; */
+    height: 538px;
+}
+.action-call-container-background{
+    height: 500px;
+    width: 1100px;
+    background: #daede6;
+    position: relative;
+    left: 193px;
+    border-radius: 23px;
+}
+.action-call-container{
+    display: flex;
+    border-radius: 10px;
+    position: relative;
+    left: 50px;
+    top: 25px;
+}
+.action-call-content{
+    height: 444px;
+    width: 600px;
+    /* background: #c8e5db; */
+    line-height: 34px;
+}
+.action-call-image{
+    height: 444px;
+    width: 400px;
+    /* background: lightpink; */
+}
+#action-call-image{
+    border-radius: 7px;
+    height: 351px;
+    width: 301px;
+    position: relative;
+    top: 61px;
+    left: 64px;
+}
+.action-content{
+    margin: 23px;
+}
+.action-call-btn{
+    margin: 23px;
+    text-decoration: none;
+    color: white;
+    background: #652edeeb;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+
+
+#on-focus{
+
+}
+.on-focus-container{
+    display: flex;
+}
+.on-focus-image{
+    background: url("../Images/onfocus-video-bg.jpg");
+    height: 700px;
+    width: 50%;
+}
+.on-focus-content{
+    background: url(../Images/onfocus-content-bg.jpg);
+    height: 700px;
+    width: 50%;
+    color: white;
+    line-height: 37px;
+}
+.on-focus-content-h-p-li{
+    margin: 17px;
+    position: relative;
+    top: 89px;
+    left: 29px;
+}
+.on-focus-content-para{
+
+}
+.on-focus-content-li{
+
+}
+.on-focus-content-btn{
+    text-decoration: none;
+    background: #652edeeb;
+    padding-top: 10px;
+    padding-left: 22px;
+    padding-bottom: 10px;
+    padding-right: 22px;
+    position: relative;
+    top: 133px;
+    left: 98px;
+    border-radius: 9px;
+    color: white;
+}
+#on-focus-play-icon{
+    font-size: 80px;
+    color: rgb(117, 65, 222);
+    position: relative;
+    top: 293px;
+    left: 358px;
+}
